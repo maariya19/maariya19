@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maariya19
 - 👀 I’m interested in exploring the intersection of technology and daily life, especially reading skills.
 - 🌱 I’m currently learning web development and working on personal projects to expand my skills.
-- 💞️ I’m looking to collaborate on open source projects or any project where I can learn and contribute my background in Customer Success.
+- 💞️ I’m looking to collaborate on open source projects or any project where I can learn and contribute with my background in Customer Success.
 - 📫 How to reach me: maariya19@icloud.com
 
 <!---
